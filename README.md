@@ -1,6 +1,9 @@
 # SHYN QR Studio
+<img width="1085" height="730" alt="image" src="https://github.com/user-attachments/assets/68cc4e46-eafd-4a46-9725-940804ec7bcd" />
 
 SHYN QR Studio is a Windows desktop application for creating, customizing, and scanning QR codes. Built with WinUI 3, it combines advanced visual customization, image editing, QR validation, and integrated web browsing in a unified workspace.
+
+<img width="1082" height="753" alt="image" src="https://github.com/user-attachments/assets/7e7da522-fb60-4eac-b686-4eb8c92bf867" />
 
 ## Features
 
