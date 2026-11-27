@@ -80,6 +80,6 @@ And Other Features might coming soon..
 SHYN QR Studio is proprietary software distributed under
  an All Rights Reserved license.
 
-Copyright © 2026 [Lyneetra Developer Team]. All rights reserved.
+Copyright © 2026 Lyneetra Developer Team. All rights reserved.
 
 See the [LICENSE](LICENSE) file for full terms.
